@@ -1,0 +1,12 @@
+#imgC {
+	position: absolute; 
+	right: 90px; /* posiciona a 90px para a esquerda */ 
+	bottom: 70px; /* posiciona a 70px para baixo */
+	}
+.table {
+	text-decoration: underline;
+}
+#button { 
+	align-items: center;
+
+}
